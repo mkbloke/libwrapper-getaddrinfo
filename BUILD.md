@@ -4,4 +4,4 @@ Building should be as simple as cloning or downloading the repository contents, 
 
 cd libwrapper-getaddrinfo && make
 
-The resulting libwrapper-getaddrinfo.so can then be used in the LD_PRELOAD environment avaiable.
+The resulting libwrapper-getaddrinfo.so can then be used in the LD_PRELOAD environment variable.
