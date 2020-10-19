@@ -1,6 +1,8 @@
 # libwrapper-getaddrinfo
 A wrapper library to replace the libc `getaddrinfo()` function with a version that doesn't return IPv6 addresses.
 
+## Usage
+
 To use this wrapper with an application, start the application, such as streamlink by specifiying the path to
 the wrapper shared object file in the `LD_PRELOAD` environment variable.  For example:
 ```
