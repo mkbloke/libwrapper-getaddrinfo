@@ -8,3 +8,7 @@ the wrapper shared object file in the `LD_PRELOAD` environment variable.  For ex
 ```
 LD_PRELOAD="/home/user/libwrapper-getaddrinfo/libwrapper-getaddrinfo.so" streamlink tvplayer.com/watch/tvpone best
 ```
+
+## Installation
+
+See [BUILD.md](BUILD.md).
